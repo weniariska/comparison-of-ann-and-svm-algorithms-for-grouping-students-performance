@@ -1,7 +1,7 @@
 # perbandingan-algoritma-ann-dan-svm-untuk-pengelompokan-kinerja-siswa
 Pada project ini, dilakukan klasifikasi untuk mengelompokan kinerja siswa. Akan dibandingkan hasil klasifikasi algoritma ANN dan SVM.
 
-<br><br>
+<br>
 Klasifikasi data menggunakan MLPClassifier dengan parameter :<br>
 o activation = relu (menggunakan fungsi aktivasi relu)<br>
 o solver = lbfgs<br>
